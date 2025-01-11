@@ -3,4 +3,4 @@ A YouTube playlist duration calculator using Java Spring Boot is a web applicati
 
 http://localhost:8080/api/playlist/duration?playlistId=YourYoutubePlaylistID 
 
-For Ex:  ACCzysOflRCelp_94n81nyOUSCLjA6cwtB
+For Ex: YourYoutubePlaylistID = ACCzysOflRCelp_94n81nyOUSCLjA6cwtB
